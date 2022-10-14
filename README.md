@@ -1,1 +1,1 @@
-José você é demais, parabens !!!
+Projeto simples realizado durante a formação da ONG Recode que demonstra a utilização do Redux.
